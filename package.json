@@ -1,0 +1,23 @@
+{
+  "name": "19_nov-23_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "idb": "^7.1.1",
+    "indexeddb-js": "^0.0.14",
+    "lowdb": "^6.1.1",
+    "mongoose": "^8.0.1",
+    "nodemon": "^3.0.1"
+  }
+}
